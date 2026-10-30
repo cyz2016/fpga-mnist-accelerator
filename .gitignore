@@ -1,0 +1,20 @@
+# Vivado / HLS 运行日志
+*.jou
+*.log
+*.str
+vivado*.backup.*
+*.tmp
+
+# Word 临时锁文件
+~$*.docx
+
+
+*.bit
+*.bin
+*.mcs
+*.elf
+.cache/
+.hw/
+.ip_user_files/
+.sim/
+.vivado/
